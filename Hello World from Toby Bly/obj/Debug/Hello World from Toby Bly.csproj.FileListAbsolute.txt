@@ -1,0 +1,7 @@
+F:\C#\Hello World from Toby Bly\Hello World from Toby Bly\bin\Debug\Hello World from Toby Bly.exe.config
+F:\C#\Hello World from Toby Bly\Hello World from Toby Bly\bin\Debug\Hello World from Toby Bly.exe
+F:\C#\Hello World from Toby Bly\Hello World from Toby Bly\bin\Debug\Hello World from Toby Bly.pdb
+F:\C#\Hello World from Toby Bly\Hello World from Toby Bly\obj\Debug\Hello World from Toby Bly.csprojAssemblyReference.cache
+F:\C#\Hello World from Toby Bly\Hello World from Toby Bly\obj\Debug\Hello World from Toby Bly.csproj.CoreCompileInputs.cache
+F:\C#\Hello World from Toby Bly\Hello World from Toby Bly\obj\Debug\Hello World from Toby Bly.exe
+F:\C#\Hello World from Toby Bly\Hello World from Toby Bly\obj\Debug\Hello World from Toby Bly.pdb
